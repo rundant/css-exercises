@@ -3,6 +3,7 @@
     font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
 }
 
-.bluey {
-    color: rgba(0, 162, 255, 0.548);
+#bluey {
+    color: rgb(58, 137, 202);
+    font-size: 36px;
 }
